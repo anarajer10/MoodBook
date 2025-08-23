@@ -1,0 +1,1 @@
+#Funciones específicas sobre las emociones detectadas

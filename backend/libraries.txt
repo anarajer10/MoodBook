@@ -1,0 +1,4 @@
+Flask --> Framework para API
+requests --> Para llamadas HTTP a Google Books y OpenLibrary
+textblob --> Para análisis de emociones
+nltk --> requerido para TextBlob
