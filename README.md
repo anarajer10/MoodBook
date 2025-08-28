@@ -4,9 +4,9 @@
 **MoodBook** es una aplicación sencilla que recomienda libros en función del estado de ánimo del usuario.
 
 ## Organización
-**-backend**
+**-backend**<br>
 **-frontend**
 
 ## Tecnologías usadas
-**Pyhton**
+**Pyhton**<br>
 **React**
